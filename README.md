@@ -1,4 +1,4 @@
-#onepager-tiny
+# onepager-tiny
 Simple (only HTML & CSS), responsive one-pager for small businesses. Minimalist, clean design, looks like an online business card. 
 
 Created by József Balázs-Hegedűs (www.balazshegedus.com).
