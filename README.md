@@ -1,6 +1,6 @@
 # onepager-tiny
 
-Live Preview: https://1lp.hu/tiny/
+Live Preview: https://op.1lp.org/tiny
 
 Simple (only HTML & CSS), responsive one-pager for small businesses. Minimalist, clean design. 
 
